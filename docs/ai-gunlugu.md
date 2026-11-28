@@ -3,9 +3,9 @@
 ## 26 Kasım 2026 — Muhammet Mustafa Çalış
 
 - Araç ve amaç — ChatGPT ile Java/XML proje iskeletini hazırlama.
-- Doğrudan kullandığım çıktı — [Aynen kullandığın kod veya önerileri yaz.]
-- Kendi yaptığım işlemler ve değişiklikler — [Gerçekte uyguladığın adımları yaz.]
-- Doğrulama — [Kullandığın cihaz veya emülatör, derleme sonucu ve ekranda gördüğün yazı.]
+- Doğrudan kullandığım çıktı — ChatGPT’nin Java ve XML proje iskeletinde ViewBinding kullanma ve arka plan işlerini AppExecutors sınıfında toplama önerilerini uyguladım.
+- Kendi yaptığım işlemler ve değişiklikler — Android Studio’da com.kameri.app paketini oluşturdum. MainActivity’yi XML ekranına ViewBinding ile bağladım. Room, Glide ve Palette bağımlılıklarını ekledim. Proje iskeletini GitHub’a gönderip PR #2’yi açtım.
+- Doğrulama — Projeyi derledim ve Medium Phone API 37.0 emülatöründe açtım. Paylaştığım sürümde ana ekranın ortasındaki metni Kameri olarak ayarladım.
 
 ## 28 Kasım 2026 — T07 Ekran Taslakları ve Prototip Geçişleri
 
